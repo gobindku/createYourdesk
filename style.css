@@ -845,39 +845,7 @@
             padding: 30px 20px;
         }
 
-        .contact-content {
-            position: relative;
-            padding: 20px 0 20px 40px;
-        }
-
-        .contact-content::before {
-            content: '';
-            position: absolute;
-            left: 0;
-            top: 0;
-            bottom: 0;
-            width: 4px;
-            background: #0066ff;
-            border-radius: 2px;
-        }
-
-        .contact-content h2 {
-            font-size: 1.5rem;
-            margin-bottom: 20px;
-            color: #2d3748;
-        }
-
-        .contact-info-list {
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-        }
-
-        .contact-info-item {
-            display: flex;
-            align-items: baseline;
-            gap: 12px;
-        }
+        
 
         .info-label {
             font-weight: 600;
